@@ -2,6 +2,8 @@
 
 A command line tool for interacting with the Stellar XLM API and the Stellar XLM SDK.
 
+LIVE DEMO HERE: http://thefruitloopexperiment.online
+
 ## Installation
 
 Clone or download the repository
